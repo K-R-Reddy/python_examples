@@ -1,0 +1,5 @@
+a=int(input("Enter a value : "))
+print("Square of {0} is {1}".format(a,a**2))
+print("Cube of {0} is {1}".format(a,a**3))
+print("SquareRoot of {0} is {1}".format(a,a**0.5))
+print("CubeRoot of {0} is {1}".format(a,(a**0.34)))

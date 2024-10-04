@@ -1,0 +1,5 @@
+f=open("new3.bin","wb")
+f.write(b"001001011")
+print("File Binary")
+f1=open("new3.bin","rb")
+print(f1.read())

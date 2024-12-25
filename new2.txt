@@ -1,0 +1,4 @@
+This is write mode
+This is multi
+Lined input
+into the File
